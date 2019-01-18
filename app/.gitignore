@@ -1,1 +1,5 @@
 /build
+/src/test
+/src/androidTest
+/src/main/java/com/example/bo/dengyun/activitys/TestActivity.java
+/src/main/res/layout/activity_test.xml
