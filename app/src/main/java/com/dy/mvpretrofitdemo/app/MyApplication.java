@@ -6,4 +6,5 @@ package com.dy.mvpretrofitdemo.app;
  */
 public class MyApplication {
     ///
+    ///
 }
